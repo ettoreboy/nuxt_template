@@ -88,3 +88,6 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# Yarn Lock - as it is a template
+yarn.lock
